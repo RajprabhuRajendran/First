@@ -1,2 +1,0 @@
-accesskey = "X"
-secretkey = "X"
