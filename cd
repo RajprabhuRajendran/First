@@ -1,0 +1,23 @@
+[33mcommit c5cd398943cd2736cf1b1a28b7bf24e16f82b066[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: RajprabhuRajendran <63949817+RajprabhuRajendran@users.noreply.github.com>
+Date:   Wed Mar 31 17:54:58 2021 +0530
+
+    first
+
+[33mcommit 73a8bc9bb1452f66e54d22ad3df4c8dfca31c70f[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: RajprabhuRajendran <63949817+RajprabhuRajendran@users.noreply.github.com>
+Date:   Tue Jun 30 12:45:55 2020 +0530
+
+    Delete terraform.tfvars
+
+[33mcommit a9f957af3482cc55f00f7e7f62a1702e3f00b006[m
+Author: RajprabhuRajendran <63949817+RajprabhuRajendran@users.noreply.github.com>
+Date:   Tue Jun 30 12:32:03 2020 +0530
+
+    Update terraform.tfvars
+
+[33mcommit 8e28b8438863e5782152833093604b770dfbcd33[m
+Author: RajprabhuRajendran <63949817+RajprabhuRajendran@users.noreply.github.com>
+Date:   Mon Jun 29 13:02:55 2020 +0530
+
+    Add files via upload
